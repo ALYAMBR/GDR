@@ -1,0 +1,7 @@
+deap
+geppy
+lightgbm
+matplotlib
+numpy
+pandas
+scikit-learn
