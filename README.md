@@ -1,6 +1,9 @@
 # GDR
 Genetic Dimension Reduction - algorithm for interpretable dimension reduction for tabular data in problem of binary classification.
 This repository contains prototype version of the algorithm and code used to make benchmarks.
+
+Developed and implemented during research work in Novosibirsk Research Center of Huawei by Nikita Radeev.
+
 ## Test Data
 Datasets are not uploaded here but you can find them on OpenML (https://www.openml.org/) by task id:
 
