@@ -4,6 +4,8 @@ This repository contains prototype version of the algorithm and code used to mak
 
 Developed and implemented during research work in Novosibirsk State University by Nikita Radeev.
 
+Code is available to execute online on CodeOcean: https://codeocean.com/capsule/3280561/tree
+
 ## Test Data
 Datasets are not uploaded here but you can find them on OpenML (https://www.openml.org/) by task id:
 
